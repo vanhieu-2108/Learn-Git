@@ -41,3 +41,5 @@ git log
 | Header   | Header2  |
 | -------- | -------- |
 | Content1 | Content2 |
+
+HandleA da edit
